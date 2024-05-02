@@ -1,0 +1,54 @@
+img, p, .divider  {
+	width: 100%;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+    font-family: "Sedan";
+}
+
+
+h1, h2 {
+	width: 100%;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+    font-family: "Cormorant Garamond";
+}
+
+#First {
+    width: 100%;
+	max-width: 525px;
+
+}
+
+#Second {
+    width: 100%;
+	max-width: 1000px;
+}
+
+#Picture {
+    width: 100%;
+	max-width: 1300px;
+}
+
+#Third {
+    width: 100%;
+	max-width: 900px;
+}
+
+img {
+	display: block;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.4;
+}
+
+.divider {
+    height: 3px;
+    background-color:  #9BAD87;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    
